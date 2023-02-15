@@ -9,7 +9,7 @@ public class CalculatorTest extends TestCase{
 	{
 		Calculator c=new Calculator();
 		int result=c.add(20, 20);
-		assertEquals(45,result);
+		assertEquals(40,result);
 	}
 	public void testadd2()
 	{
